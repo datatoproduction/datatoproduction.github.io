@@ -2,45 +2,26 @@ url: https://datatoproduction.github.io
 #baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Data To Production
+email: thedatascienceshow22@gmail.com
+description: "This is Data to Production Mastercalls tutorial."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Aishit Dharwal
   pic: 1
-  position: Lead Designer
+  position: Data Scientist
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: Linkedln
+      url: https://www.linkedin.com/in/aishit-dharwal/
 
-- name: Larry Parker
+- name: Mitul Patel
   pic: 2
-  position: Lead Marketer
+  position: Data Scientist
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.linkedin.com/in/mitul-patel2393/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
