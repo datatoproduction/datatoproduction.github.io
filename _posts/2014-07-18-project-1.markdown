@@ -1,6 +1,6 @@
 ---
-title: Airbnb Analysis
-subtitle: Data Science project
+title: Computer Vision
+subtitle: Object detection project
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -9,7 +9,7 @@ thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Github
-category: DS
-description: This project extracts airbnb data and performs some analysis and feeds to the dashbaord for end-users.
+category: Data Science
+description: This project shows how to detect vehicles in an image.
 
 ---
